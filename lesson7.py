@@ -139,3 +139,5 @@ get_products_by_price_and_quantity(100, 5)
 
 # Тестирование функции поиска товаров по названию
 search_products_by_title('Товар')
+
+
